@@ -2220,6 +2220,9 @@ audio {
   justify-content: center;
 }
 
+
+
+
 @media (min-width: 576px) {
 
 
@@ -2308,7 +2311,7 @@ audio {
     align-items: flex-start;
   }
 
-  .inside-footer .content-footer-3 .content-wrap-3{
+  .inside-footer .content-footer-3 .content-wrap-3 {
     width: 100%;
   }
 
